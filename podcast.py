@@ -25,7 +25,8 @@ def day(i):
 def podcast():
     #locale.setlocale(locale.LC_ALL, "it_IT.utf8")
 
-    base_url = "https://podcast02.unitedradio.it/virginradio.it//NEW/upload/uploadedContent/repliche/drfeelgood/"
+#    base_url = "https://podcast02.unitedradio.it/virginradio.it//NEW/upload/uploadedContent/repliche/drfeelgood/"
+    base_url = "http://podcast.mediaset.net/repliche//2020/1/8/"
     base_url_2="_drfeelgood.mp3"
 
 
